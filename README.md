@@ -19,6 +19,6 @@ Yellow & Red:イエローカードを2枚もらった選手の数
 
 Red:レッドカードをもらった選手の数
 
-PSO:PK戦にもつれ込んだか\n
+PSO:PK戦にもつれ込んだか
 
 Goals in PSO:PK成功数
